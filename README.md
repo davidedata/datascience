@@ -1,1 +1,2 @@
-Hello there, this is my first GitHub repository! So I will add soon my contributions to the community after I will improve my knowledge about the tool. 
+Hello! This is my first GitHub repository. I’ll be adding my contributions to the community soon, as I continue to improve my knowledge of this tool.
+
